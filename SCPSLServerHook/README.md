@@ -1,0 +1,1 @@
+﻿A DLL for hook in SCPSL.exe,it provides files and directory hooks to support MultiSCPSLServer
